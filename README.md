@@ -11,3 +11,16 @@ pip install -r requirements.txt
 python space.py
 ```
 
+### Controls:
+
+```
+esc: quit 
+key up: nosedive forward
+key back: pull upwards
+key right: turn right
+key left: turn left
+d: roll right
+a: roll left
+w: accellerate in direction which you're pointing
+s: brake
+``` 
