@@ -15,10 +15,10 @@ python space.py
 
 ```
 esc: quit 
-key up: nosedive forward
-key back: pull upwards
-key right: turn right
-key left: turn left
+up: nosedive forward
+down: pull upwards
+right: turn right
+left: turn left
 d: roll right
 a: roll left
 w: accellerate in direction which you're pointing
